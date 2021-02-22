@@ -1,0 +1,8 @@
+pandas
+tqdm
+kaggle
+matplotlib
+tensorflow
+scikit-learn 
+numpy
+contractions
